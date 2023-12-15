@@ -1,0 +1,18 @@
+prev_words,frequency,Peter.frequency,Peter.probability,Where.frequency,Where.probability,Piper.frequency,Piper.probability,picked.frequency,picked.probability,a.frequency,a.probability,</s>.frequency,</s>.probability,peck.frequency,peck.probability,of.frequency,of.probability,pickled.frequency,pickled.probability,pepper.frequency,pepper.probability,that.frequency,that.probability,<s>.frequency,<s>.probability,s.frequency,s.probability,the.frequency,the.probability
+"('<s>', '<s>')",2,1.0,0.5,1.0,0.5,,,,,,,,,,,,,,,,,,,,,,,,
+"('<s>', 'Peter')",1,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,
+"('Peter', 'Piper')",1,,,,,,,2.0,1.0,,,,,,,,,,,,,,,,,,,,
+"('Piper', 'picked')",2,,,,,,,,,1.0,0.5,1.0,0.5,,,,,,,,,,,,,,,,
+"('picked', 'a')",1,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,
+"('a', 'peck')",1,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,
+"('peck', 'of')",1,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,
+"('of', 'pickled')",1,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,
+"('pickled', 'pepper')",2,,,,,,,,,,,1.0,0.5,,,,,,,,,1.0,0.5,,,,,,
+"('pepper', '</s>')",1,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,
+"('</s>', '<s>')",1,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,
+"('<s>', 'Where')",1,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,
+"('Where', 's')",1,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0
+"('s', 'the')",1,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,
+"('the', 'pickled')",1,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,
+"('pepper', 'that')",1,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+"('that', 'Peter')",1,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,
